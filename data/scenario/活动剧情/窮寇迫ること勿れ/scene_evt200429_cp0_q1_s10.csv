@@ -1,10 +1,10 @@
 id,name,text,trans
-0-synopsis,,ファータ・グランデ空域の片隅にあるイストラ島では、大国ユラントスクと小国エルデニによる戦争が佳境を迎えていた。ユラントスク国に属する名将の出陣により、戦線が崩壊し国の存亡の危機に陥るエルデニ国。事態を重く見たエルデニ国王レオニスは、逆転の望みをかけ「銀の軍師」の助力を求めるべく、側近ザウラを使者として向かわせるのだった。,位于法塔・格兰迪空域一角的伊斯特拉岛上，大国尤兰托斯克和小国埃尔德尼之间的战争愈演愈烈。由于隶属于尤兰托斯克国的名将的出征，战线崩溃，埃尔德尼陷入存亡危机。埃尔德尼国王雷欧尼斯看到事态的严重性，希望能够扭转局面，派他的亲信扎乌拉去寻求“银之军师”的帮助。
+0-synopsis,,ファータ・グランデ空域の片隅にあるイストラ島では、大国ユラントスクと小国エルデニによる戦争が佳境を迎えていた。ユラントスク国に属する名将の出陣により、戦線が崩壊し国の存亡の危機に陥るエルデニ国。事態を重く見たエルデニ国王レオニスは、逆転の望みをかけ「銀の軍師」の助力を求めるべく、側近ザウラを使者として向かわせるのだった。,位于法塔・格兰迪空域一角的伊斯特拉岛上，大国尤兰托斯克和小国埃尔德尼之间的战争愈演愈烈。尤兰托斯克仅凭一员名将便击溃战线，埃尔德尼陷入存亡危机。埃尔德尼国王雷欧尼斯看到事态的严重性，希望能够扭转局面，派他的亲信扎乌拉去寻求“银之军师”的帮助。
 7,エルデニ兵１,くっ……！？,咕……! ？
 9,ユラントスク兵１,ふん……<br>所詮、エルデニは<br>古臭い弱小国家にすぎん。,哼……归根结底，<br>埃尔德尼只不过是个陈腐的弱小国家。
 10,ユラントスク兵１,さぁ、進め！　蹂躙しろ！<br>天下は我らユラントスクのものだ！,向前进军！被我们蹂躏吧！<br>天下属于我们尤兰托斯克！
 11,,<span class='scene-font-katari'>その戦場は、</span><br><span class='scene-font-katari'>すでに戦場としてすら</span><br><span class='scene-font-katari'>正気を失っていた。</span>,<span class='scene-font-katari'>那个战场——，</span><br><span class='scene-font-katari'>甚至已经不能被称作战场，</span><br><span class='scene-font-katari'>其实早就失去了理智。</span>
-12,,<span class='scene-font-katari'>趨勢は決しつつあるものの、</span><br><span class='scene-font-katari'>勢いづいた兵達の暴力は止まらず</span><br><span class='scene-font-katari'>狂乱の中、ただ血を求め続ける。</span>,<span class='scene-font-katari'>虽然大势已定，</span><br><span class='scene-font-katari'>但是士兵们的暴力并没有停止，</span><br><span class='scene-font-katari'>只是在狂乱中渴求着鲜血。</span>
+12,,<span class='scene-font-katari'>趨勢は決しつつあるものの、</span><br><span class='scene-font-katari'>勢いづいた兵達の暴力は止まらず</span><br><span class='scene-font-katari'>狂乱の中、ただ血を求め続ける。</span>,<span class='scene-font-katari'>虽然大势已定，</span><br><span class='scene-font-katari'>但是士兵们的暴行并没有停止，</span><br><span class='scene-font-katari'>只是在狂乱中渴求着鲜血。</span>
 13,,<span class='scene-font-katari'>それは最早戦争ではなく、</span><br><span class='scene-font-katari'>一方的な虐殺と呼ぶべき惨状だった。</span>,<span class='scene-font-katari'>这已经不是最开始时的战争了，</span><br><span class='scene-font-katari'>而是应该称之为单方面屠杀。</span>
 17,エルデニ伝令兵１,シュラ様！<br>東地区から第三王子エリクが<br>出陣したとの報告が！,雪拉大人！<br>从东部地区传来了<br>第三王子埃里克上阵的报告！
 18,エルデニ伝令兵１,現在、エリク王子は多数の軍勢を<br>率いてこちらへと進軍中。<br>第六、第七部隊が食い止めています。,目前，埃里克王子正率领<br>多支小队向这边进军。<br>第六和第七部队正在阻止他们。
@@ -29,11 +29,11 @@ id,name,text,trans
 47,？？？,…………,…………
 51,エルデニ兵２,く、来るなっ……！<br>バケモノめ……！！,别、别过来……！<br>你这个怪物……！！
 54,？？？,…………,…………
-62,,<span class='scene-font-katari'>男は再び得物を振り上げ、</span><br><span class='scene-font-katari'>逃げ惑う兵へと無造作に叩きつける。</span>,<span class='scene-font-katari'>男子再次挥舞着武器，</span><br><span class='scene-font-katari'>轻而易举地将武器打向四处逃窜的士兵。</span>
+62,,<span class='scene-font-katari'>男は再び得物を振り上げ、</span><br><span class='scene-font-katari'>逃げ惑う兵へと無造作に叩きつける。</span>,<span class='scene-font-katari'>男子再次挥舞着武器，</span><br><span class='scene-font-katari'>轻而易举地将手中武器砍向四处逃窜的士兵。</span>
 63,,<span class='scene-font-katari'>その衝撃は再び戦場を巡り、</span><br><span class='scene-font-katari'>最早エルデニに勝機などないことを、</span><br><span class='scene-font-katari'>まざまざと思い知らせるのだった。</span>,<span class='scene-font-katari'>武器造成的冲击在战场上回荡，</span><br><span class='scene-font-katari'>让埃尔德尼的人们清楚地意识到</span><br><span class='scene-font-katari'>或许已经没有胜利的机会了。</span>
 69,エルデニ伝令兵２,<span class='scene-font-4'>陛下！</span>,<span class='scene-font-4'>陛下！</span>
 70,,<span class='scene-font-katari'>小国エルデニの首都にある</span><br><span class='scene-font-katari'>城内の一室。</span>,<span class='scene-font-katari'>小国埃尔德尼的首都，</span><br><span class='scene-font-katari'>城堡里的一个房间内。</span>
-71,,<span class='scene-font-katari'>飛び込んできた伝令兵に向け、</span><br><span class='scene-font-katari'>会議をしていた</span><br><span class='scene-font-katari'>国の有力者達の視線が突き刺さる。</span>,<span class='scene-font-katari'>正在开会的国家权力人士们</span><br><span class='scene-font-katari'>视线都投向了</span><br><span class='scene-font-katari'>冲进来的传令兵。</span>
+71,,<span class='scene-font-katari'>飛び込んできた伝令兵に向け、</span><br><span class='scene-font-katari'>会議をしていた</span><br><span class='scene-font-katari'>国の有力者達の視線が突き刺さる。</span>,<span class='scene-font-katari'>正在开会的当权者们</span><br><span class='scene-font-katari'>将视线都投向了</span><br><span class='scene-font-katari'>冲进来的传令兵。</span>
 72,側近らしき男,<span class='scene-font-4'>貴様、無礼であるぞ！</span><br>それでも誇り高きエルデニ軍人か！<br>この場を何と心得る！,<span class='scene-font-4'>你……太无礼了！</span><br>这就是骄傲的埃尔德尼军人吗！<br>注意一下场合！
 73,エルデニ伝令兵２,も、申し訳ありません！<br>ですが、至急お伝えしなければと……,对、对不起！<br>但是，我必须马上汇报……
 74,？？？,構わん。<br>どうした、何があった？,没关系。<br>怎么了，发生什么事了？
@@ -56,7 +56,7 @@ id,name,text,trans
 99,エルデニ官僚,スイからの流れ者などに<br>兵を任せるからこうなるのだ！<br>最初からザウラ将軍が出ていれば……,把士兵交给那种来自苏伊的流亡者，<br>我就知道会变成这样！<br>如果从一开始就由扎乌拉将军出阵指挥……
 100,レオニス/雷欧尼斯,あのロウファが相手だ。<br>今の我が国に残された全戦力を<br>ぶつけたところで勝ち目はあるまいよ。,对手是那个洛法，<br>就算把现在留在我们国家的<br>全部战力发挥出来也没有胜算。
 101,エルデニ大臣,<span class='scene-font-4'>なっ……！</span><br>では陛下は、このまま国が滅ぶのを<br>ただ待つと仰るのですか！？,<span class='scene-font-4'>什……！</span><br>那么陛下就只是这样等着国家灭亡吗！
-102,レオニス/雷欧尼斯,そうは言っていない。<br>今のままでは勝てないのなら、<br>外に助けを呼ぶしかない。,我可没这么说。<br>如果是现在这样，出现了赢不了的情况，那就只能向外面求救了。
+102,レオニス/雷欧尼斯,そうは言っていない。<br>今のままでは勝てないのなら、<br>外に助けを呼ぶしかない。,我可没这么说。<br>如果是现在这样，已经陷入穷途末路，那就只能向外面求救了。
 103,レオニス/雷欧尼斯,善は急げだ、ザウラ。<br><span class='scene-font-spword'>「銀の軍師」</span>を連れてこい。,最好能快一点，扎乌拉。<br>把<span class='scene-font-spword'>「银之军师」</span>请过来。
 104,ザウラ/扎乌拉,「銀の軍師」……！<br>そうか、彼ならば確かに<br>戦局をひっくり返せる……,“银之军师”……！<br>确实，如果是他，足以扭转战局……
 105,レオニス/雷欧尼斯,流通拠点を抑えられ、<br>ロウファと戦わねばならない我が国には<br>あの男の手腕が必要だ。,贸易城市被占、<br>更不敌洛法的埃尔德尼，<br>需要那个男人的能力。
