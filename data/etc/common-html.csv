@@ -299,7 +299,7 @@ path,text,trans,count
 /shop_exchange/content/list,アーカルムの契約者,阿尔卡那的契约者,
 /shop_exchange/content/list,窮極への道,通往究极之路,
 /shop_exchange/content/list,ショップTOPへ,返回商店首页,
-/shop_exchange/content/list,一覧に戻る,回到活动列表,
+/shop_exchange/content/list,一覧に戻る,回到一览表,
 /shop_exchange/content/list,制限なし,无限制,2
 /shop/content/index,いらっしゃ～い！　旅支度はシェロちゃんにお任せ～！,欢迎光临～！　旅行的准备就交给我榭洛酱吧～！,
 /item/content/index,アイテム,道具,6
@@ -915,3 +915,4 @@ raid/,召喚石情報,召唤石信息,
 /party/content/set_poses,推しキャラTwitter投稿で使用する<br>POSEを設定できます。,可设定喜爱角色Twitter投稿中使用的POSE,
 /archive/content,ルリアノートTOPに戻る,回到露莉亚日记TOP,5
 /archive/content/story,メインシナリオTOPに戻る,回到主线剧情TOP,
+/archive/content/chapter,イベントリストに戻る,回到活动列表,
