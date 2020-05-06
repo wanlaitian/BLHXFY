@@ -38,7 +38,7 @@ id,name,text,trans
 39,エッセル/艾瑟尔,ふふ、ありがとう。<br>ひと針ひと針進めて<br>段々完成に近づくのも楽しいし……,呵呵，谢谢。<br>看着衣服一针一针缝起来<br>慢慢接近完成很开心……
 40,エッセル/艾瑟尔,それに……うん。<br>服とか、リネン類とか……<br>ボロボロでも生きてはいけるよね。,而且……嗯。<br>衣服啊，缎带这种的……<br>就算破破烂烂也能活用。
 41,ムゲン/无限,うん。,嗯。
-42,エッセル/艾瑟尔,だからこそ新しい服を作ったり<br>模様を入れたり……そういう手間を<br>かけられること自体が嬉しいんだ。,所以做衣服啊，加纹路啊，<br>这种要花工夫的事情本身我就很喜欢。
+42,エッセル/艾瑟尔,だからこそ新しい服を作ったり<br>模様を入れたり……そういう手間を<br>かけられること自体が嬉しいんだ。,所以做新衣服啊，加纹路啊，<br>这种要花工夫的事情本身我就很喜欢。
 43,エッセル/艾瑟尔,なんていうのかな……<br>ん……「普通」の暮らし……かな。<br>そういうの。,该怎么说呢……嗯……<br>这种就是，“普通”的生活……吧。
 44,ムゲン/无限,ふつう……<br>……ほか、おんなじ？,普通……<br>……其他，一样？
 45,エッセル/艾瑟尔,そうだね。<br>よくある、とか、ありふれた、とか。<br>でもだからこそ大事なことだと思うよ。,是啊。<br>很常见的，到处都是的。<br>但是我觉得这些才是重要的事。
@@ -51,7 +51,7 @@ id,name,text,trans
 54,カトル/卡托尔,姉さん、入るよ……って……,姐姐，我进来了……嗯？
 55,カトル/卡托尔,ムゲン！？<br>それに、姬塔さんも……？,无限！？<br>还有姬塔……？
 56,,<span class='scene-font-katari'>エッセルの双子の弟カトルは、</span><br><span class='scene-font-katari'>ムゲン達が街にいることに</span><br><span class='scene-font-katari'>驚いた様子を見せる。</span>,<span class='scene-font-katari'>艾瑟尔的双胞胎弟弟卡托尔</span><br><span class='scene-font-katari'>看到无限等人在街上感到很惊讶。</span>
-57,,<span class='scene-font-katari'>街の復興を進めるべく</span><br><span class='scene-font-katari'>姬塔達と離れ街に残っていた</span><br><span class='scene-font-katari'>カトルは、突然の再開に目を丸くする。</span>,<span class='scene-font-katari'>卡托尔为了复兴城市离开姬塔等人留在城里，</span><br><span class='scene-font-katari'>突然与众人再会他感到很惊讶。</span>
+57,,<span class='scene-font-katari'>街の復興を進めるべく</span><br><span class='scene-font-katari'>姬塔達と離れ街に残っていた</span><br><span class='scene-font-katari'>カトルは、突然の再開に目を丸くする。</span>,<span class='scene-font-katari'>卡托尔为了复兴城市</span><br><span class='scene-font-katari'>离开姬塔等人留在城里，</span><br><span class='scene-font-katari'>突然与众人再会他感到很惊讶。</span>
 58,ムゲン/无限,カトル、たのしい、なに？<br>ムゲン、しりたい！,卡托尔，开心事，什么？<br>无限，想知道！
 59,カトル/卡托尔,はぁ？<br>なんです藪から棒に……,啊？<br>怎么了那么突然……
 60,エッセル/艾瑟尔,ん、ムゲンはね……,嗯，无限他啊……
