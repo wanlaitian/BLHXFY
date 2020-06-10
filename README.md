@@ -1,7 +1,7 @@
 # 碧蓝幻想翻译数据
 
 ### 剧情翻译
-scenario 目录存放所有剧情文本。
+data/scenario 目录存放所有剧情文本。
 
 #### 用插件提取剧情文本
 如果还未安装汉化插件，请先看这边的[说明](https://github.com/biuuu/BLHXFY/blob/master/src/README.md)来装上汉化插件。
