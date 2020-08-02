@@ -1,6 +1,6 @@
 id,name,detail
 npc,蕾彼恩姐妹 麦姆＆米姆＆梅姆,3040193000
-special,,<div class=prt-text-small>光属性伤害(特大)/自身获得必TA</div>
+special,三矢降雷,<div class=prt-text-small>光属性伤害(特大)/自身获得必TA</div>
 skill-1,水之刃,<div class=prt-text-small>对敌方全体造成光属性攻击/防御DOWN(累积)/自身获得光属性UP</div>
 skill-2,勇敢斗争,<div class=prt-text-small>对敌方单体造成2次光属性攻击/气绝</div>
 skill-3,治疗进化,<div class=prt-text-small>我方全体HP回复/净化1个弱体状态</div>
