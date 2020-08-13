@@ -49,9 +49,9 @@ id,name,text,trans
 62,コルル,なんと……！<br>せっかくのデザートを<br>無駄にするとは……！,什么……！<br>竟然浪费了好不容易准备好的甜品……！
 63,レッドラック,何より許しがたい蛮行だぜ！<br>あんな野郎、助ける義理なんざ<br>全く感じねぇが……,真是无法饶恕的恶行！<br>完全没有情理救这种家伙，<br>不过……
 64,レッドラック,人死にが出て、大会が<br>中止になっても困るからな。,要是出了人命，<br>让大赛终止的话我也会很困扰啊。
-65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,<span class='scene-font-4'喂，你这混蛋！</span><br><span class='scene-font-4'待在那别动！</span>
-66,コルル,<span class='scene-font-4'>助太刀致す！</span>,<span class='scene-font-4'我来帮你！</span>
+65,レッドラック,<span class='scene-font-4'>おい、てめぇ！</span><br><span class='scene-font-4'>そこ動くんじゃねぇぞ！</span>,<span class='scene-font-4'>喂，你这混蛋！</span><br><span class='scene-font-4'>待在那别动！</span>
+66,コルル,<span class='scene-font-4'>助太刀致す！</span>,<span class='scene-font-4'>我来帮你！</span>
 67,ビィ/碧,オイラ達も続こうぜ、姬塔！,我们也过去吧，姬塔！
-68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'────！！</span>
+68,巨大樹クラゲ,<span class='scene-font-4'>────！！</span>,<span class='scene-font-4'>────！！</span>
 info,,,scene_evt200628_cp3_q4_s20
 译者,,,Van
