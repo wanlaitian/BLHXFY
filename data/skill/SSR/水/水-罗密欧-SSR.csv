@@ -8,6 +8,6 @@ skill-1++,利刃,<div class=prt-text-small>对敌方单体造成5倍水属性伤
 skill-2,信念,<div class=prt-text-small>成为攻击目标　<span class=text-blue>◆消耗1英灵，减轻火属性伤害</span></div>
 skill-3,蓝焰,进入增幅状态/技能可即时使用  <span class=text-blue>◆再使用后结束增幅状态，回复全部英灵(5英灵)</span>
 skill-ソラーレ・ブルー,阳蓝,进入增幅状态/技能可即时使用  <span class=text-blue>◆再使用后结束增幅状态，回复全部英灵(5英灵)</span>
-support-1,维罗纳的守护精灵,英灵效果中攻防UP/每过5回合，赋予自身英灵效果/无英灵时，攻击力大幅DOWN　<span class=text-blue>◆普攻消耗1英灵</span>
+support-1,维罗纳的守护精灵,英灵效果中攻防UP/每过5回合，赋予自身英灵效果　<span class=text-blue>◆普攻消耗1英灵</span>
 support-2,英灵恩典,自身2层及以上玉水的刻印时获得无敌(1次)/回合结束时，获得1层英灵　<span class=text-blue>◆受到攻击时消耗2层玉水的刻印</span>
 skill-lb,LB技能,使用技能有概率不消耗英灵
