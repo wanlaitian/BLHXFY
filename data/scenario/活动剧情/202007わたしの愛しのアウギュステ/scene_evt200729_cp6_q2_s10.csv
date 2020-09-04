@@ -84,14 +84,14 @@ id,name,text,trans
 91,アルベール/阿尔贝尔,元気そうでなによりだ。<br>しかし、こちらの女性は覚えがないな。<br>あの時、会っただろうか……？,你那么有精神了就好。<br>但是，我不太记得这位女性。<br>那时候，也见过你吧……？
 92,,<span class='scene-font-katari'>アルベールがメグについて言うと、</span><br><span class='scene-font-katari'>まりっぺは迷った挙句、</span><br><span class='scene-font-katari'>思い切って口を開いた。</span>,<span class='scene-font-katari'>就在阿尔贝尔问起了梅格的时候，</span><br><span class='scene-font-katari'>玛丽丽陷入了迷惘，</span><br><span class='scene-font-katari'>但很快她下定了决心，开口说道。</span>
 93,まりっぺ,あ、あの……！<br>このコはあの時、あなたに……,那、那个……！<br>这孩子是那时候的，被你……
-94,,<span class='scene-font-katari'>だが言いかけたまりっぺの腕を</span><br><span class='scene-font-katari'>メグはつかみ、</span><br><span class='scene-font-katari'>静かな笑みで首を振った。</span>,<span class='scene-font-katari'>但是当玛丽丽想说的时候，</span><br><span class='scene-font-katari'>梅格拉紧了她是手，</span><br><span class='scene-font-katari'>静静的笑着摇了摇头。</span>
+94,,<span class='scene-font-katari'>だが言いかけたまりっぺの腕を</span><br><span class='scene-font-katari'>メグはつかみ、</span><br><span class='scene-font-katari'>静かな笑みで首を振った。</span>,<span class='scene-font-katari'>但是当玛丽丽想说的时候，</span><br><span class='scene-font-katari'>梅格抓住了她的手，</span><br><span class='scene-font-katari'>静静地笑着摇了摇头。</span>
 95,メグ/梅格,はじめまして。<br>その節は友達がお世話になりました。<br>私、メグっていいます。,初次见面。<br>那时候谢谢你关照我的朋友。<br>我是梅格。
-96,アルベール/阿尔贝尔,たいしたことはしていない。<br>その後も無事に過ごせているのなら<br>俺としても安心できる。,也不是什么大不了的事。<br>在那之后没什么意外的话，<br>我也可以安心了。
-97,まりっぺ,ッ！？<br>ちょっと、メグ……<br>どうして……？,嗯！？<br>等一下，梅格……<br>怎么了……？
-98,まりっぺ,あの時のことを思い出してもらったら<br>本物の白馬の王子様とも……<br>うまく……いくかもよ……？,如果能让他回想起那是的事，<br>说不定变成……<br>真的白马王子哦……？
-99,メグ/梅格,いいんだよ、まりっぺ。<br>こうしてアルベールさんと再会しても<br>私、ときめいたりしてないもん。,可以啦，玛丽丽。<br>再次见到阿尔贝尔，<br>我心里已经没有波动了。
-100,メグ/梅格,言ったでしょ？<br>白馬の王子様を待つのはやめたの。,我说过了吧？<br>我已经放弃等待白马王子了。
-101,メグ/梅格,やっぱり私……<br>ちょっぴり変われたみたい。<br>これは私とまりっぺの秘密だよ？,果然我……<br>好像还是有点变了。<br>这是我和玛丽丽之间的秘密哦？
-102,まりっぺ,メグ……<br><span class='scene-font-kokoro'>（ちょっぴりじゃないよ……）</span>,梅格……<br><span class='scene-font-kokoro'>（不只是一点哦……）</span>
+96,アルベール/阿尔贝尔,たいしたことはしていない。<br>その後も無事に過ごせているのなら<br>俺としても安心できる。,也不是什么大不了的事。<br>你在那之后都是平平安安的，<br>我也安心了。
+97,まりっぺ,ッ！？<br>ちょっと、メグ……<br>どうして……？,嗯！？<br>等一下，梅格……<br>为什么……？
+98,まりっぺ,あの時のことを思い出してもらったら<br>本物の白馬の王子様とも……<br>うまく……いくかもよ……？,如果能让他回想起那时的事的话，<br>说不定……<br>你就能和真正的白马王子有故事了啊……？
+99,メグ/梅格,いいんだよ、まりっぺ。<br>こうしてアルベールさんと再会しても<br>私、ときめいたりしてないもん。,没事的，玛丽丽。<br>就算现在再次见到阿尔贝尔，<br>我的心里已经没有波动了。
+100,メグ/梅格,言ったでしょ？<br>白馬の王子様を待つのはやめたの。,我说过了吧？<br>我已经放弃等待我的白马王子了。
+101,メグ/梅格,やっぱり私……<br>ちょっぴり変われたみたい。<br>これは私とまりっぺの秘密だよ？,果然……<br>我还是有点变了啊。<br>这是我和玛丽丽之间的秘密哦？
+102,まりっぺ,メグ……<br><span class='scene-font-kokoro'>（ちょっぴりじゃないよ……）</span>,梅格……<br><span class='scene-font-kokoro'>（你变的可不只是一点哦……）</span>
 info,,,scene_evt200729_cp6_q2_s10
 译者,,,
