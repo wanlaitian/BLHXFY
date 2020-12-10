@@ -1,5 +1,5 @@
 id,name,detail
-npc,灶门炭治郎&灶门祢豆子&我妻善逸&嘴平伊之助,304030800
+npc,灶门炭治郎&灶门祢豆子&我妻善逸&嘴平伊之助,3040308000
 special,火之神神乐 圆舞+,<div class=prt-text-small>水属性伤害（特大）/自身的神乐LV上升1（最大5）</div>
 skill-1,水之呼吸 壹之型·水面斩击,<div class=prt-text-small>对敌方全体造成水属性伤害/自身水属性攻击力UP（累积）/神乐LV上升1</div>
 skill-2,兽之呼吸 叁之牙·獠牙撕扯,<div class=prt-text-small>根据目标HP给敌方单体造成无属性伤害/消去1个强化效果</div>
